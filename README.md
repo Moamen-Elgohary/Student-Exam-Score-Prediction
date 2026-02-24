@@ -148,7 +148,7 @@ Key takeaways from the model comparison:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-exam-score-prediction.git
+   git clone https://github.com/Moamen-Elgohary/Student-Exam-Score-Prediction.git
    cd student-exam-score-prediction
    ```
 
